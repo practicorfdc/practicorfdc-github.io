@@ -1,0 +1,25 @@
+:root{
+    --color-tema:white;
+    --color-primario: #124f88;
+    --color-primario2: #12273b;
+    --color-secundario: #F7C331;
+    --color-de-texto-inverso:white;
+    --colorDeTexto:black;
+    --color-superficial-menu: #e5e5e5;
+    --color-tema2: rgb(83, 103, 121);
+    --color-de-fondo-celular: #3A4460;
+   
+    
+}
+   
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--color-tema);
+    color: var(--text-color)
+}
+
+a{
+    text-decoration: none;
+    color: var(--colorDeTexto);
+
+}
